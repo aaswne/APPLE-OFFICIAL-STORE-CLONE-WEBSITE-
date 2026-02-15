@@ -1,0 +1,40 @@
+{
+  "db5": [
+    {
+      "id": 1,
+      "title": "Trade in your current device. Get credit toward a new one.",
+      "footnote": null,
+      "imageUrl": null
+    },
+    {
+      "id": 2,
+      "title": "Pay in full or pay over time. Your choice.",
+      "footnote": null,
+      "imageUrl": null
+    },
+    {
+      "id": 3,
+      "title": "Make it theirs. Engrave a mix of emoji, names, and numbers for free.",
+      "footnote": null,
+      "imageUrl": null
+    },
+    {
+      "id": 4,
+      "title": "Enjoy two-hour delivery from an Apple Store, free delivery, or easy pickup.",
+      "footnote": "1",
+      "imageUrl": null
+    },
+    {
+      "id": 5,
+      "title": "Get a personalized shopping experience in the Apple Store app.",
+      "footnote": null,
+      "imageUrl": null
+    },
+    {
+      "id": 6,
+      "title": "Customize a Mac and style an Apple Watch just for them.",
+      "footnote": null,
+      "imageUrl": null
+    }
+  ]
+}

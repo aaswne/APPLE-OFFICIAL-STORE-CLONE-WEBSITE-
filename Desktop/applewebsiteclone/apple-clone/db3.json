@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "colors": ["Matte Black", "Statement Red", "Champagne Gold"],
+      "title": "Beats Pill — Wireless Bluetooth® Speaker — Statement Red",
+      "price": "$149.99",
+      "badges": [],
+      "image": "/images/db3/beatspill.jpeg"
+    },
+    {
+      "id": 2,
+      "colors": ["Blue", "Purple", "Sienna", "Green", "Black"],
+      "title": "iPhone 17 Pro TechWoven Case with MagSafe – Sienna",
+      "price": "$59.00",
+      "badges": [],
+      "image": "/images/db3/iphone17promaxcase.jpeg"
+    },
+    {
+      "id": 3,
+      "colors": ["Neon Yellow", "Light Blue", "Blue", "Purple", "Sienna", "Orange+"],
+      "title": "Crossbody Strap – Sienna",
+      "price": "$59.00",
+      "badges": [],
+      "image": "/images/db3/crossbodystrap.jpeg"
+    },
+    {
+      "id": 4,
+      "colors": ["White", "Black"],
+      "title": "HidrateSpark PRO 2 Smart Tumbler (30 oz.)",
+      "price": "$79.95",
+      "badges": ["Online Only"],
+      "image": "/images/db3/hidratespark.jpeg"
+    },
+    {
+      "id": 5,
+      "colors": [],
+      "title": "Aer Go Pack 2",
+      "price": "$99.95",
+      "badges": ["Online Only"],
+      "image": "/images/db3/aergopack.jpeg"
+    },
+    {
+      "id": 6,
+      "colors": ["Jet Black", "Gravel Grey", "Spark Orange", "Power Pink"],
+      "title": "Powerbeats Fit — Wireless Fitness Earbuds with Secure Fit — Spark Orange",
+      "price": "$199.99",
+      "badges": ["New"],
+      "image": "/images/db3/poertbeat.jpeg"
+    },
+    {
+      "id": 7,
+      "colors": ["Light Blue", "Tan", "Light Gray", "Black"],
+      "title": "iPhone Air Bumper",
+      "price": "",
+      "badges": [],
+      "image": "/images/db3/iphoneairbumber.jpeg"
+    },
+    {
+      "id": 8,
+      "colors": ["Turmeric", "Neon Yellow", "Anchor Blue", "Green Gray", "Midnight"],
+      "title": "46mm Turmeric Braided Solo Loop - Size 0",
+      "price": "$99.00",
+      "badges": ["Only at Apple"],
+      "image": "/images/db3/46mmturmericstrap.jpeg"
+    },
+    {
+      "id": 9,
+      "colors": ["Sky", "White", "Watermelon", "Lemonade"],
+      "title": "Smart Folio for iPad (A16) – Watermelon",
+      "price": "$79.00",
+      "badges": [],
+      "image": "/images/db3/smartfolioforipad.jpeg"
+    }
+  ]
+}

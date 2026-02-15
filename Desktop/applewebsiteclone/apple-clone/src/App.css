@@ -1,0 +1,17 @@
+.divider {
+  margin-top: -9px;
+  width: 69%;
+}
+
+.legal-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 28px; /* controls spacing between each Words component */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(245, 245, 247);
+    overflow-x: hidden;
+}

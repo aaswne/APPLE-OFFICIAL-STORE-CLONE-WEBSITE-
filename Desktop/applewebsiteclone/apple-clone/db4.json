@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "AirPods 4",
+      "price": "$129.00",
+      "colors": ["Blue", "Pink", "Yellow", "Silver"],
+      "image": "/images/db4/airpods4.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "iPad",
+      "price": "From $349 or $29.08/mo. for 12 mo.",
+      "image": "/images/db4/ipad.jpeg"
+    },
+    {
+      "id": 3,
+      "tag": "New",
+      "title": "AirTag",
+      "price": "$29.00",
+      "image": "/images/db4/airtag.jpeg"
+    },
+    {
+      "id": 4,
+      "tag": "Free Engraving",
+      "title": "Apple Pencil Pro",
+      "price": "$129.00",
+      "image": "/images/db4/applepencilepro.jpeg"
+    },
+    {
+      "id": 5,
+      "tag": "Free Engraving",
+      "title": "AirPods Max - Starlight",
+      "description": "AirPods Max in Starlight",
+      "price": "$549.00",
+      "colors": ["Blue", "Purple", "Midnight", "Starlight", "Orange"],
+      "image": "/images/db4/airpodsmax.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "11-inch iPad Air",
+      "price": "From $599 or $49.91/mo. for 12 mo.",
+      "colors": ["Space Gray", "Blue", "Purple", "Starlight"],
+      "image": "/images/db4/11inchipadair.jpeg"
+    },
+    {
+      "id": 7,
+      "tag": "Free Engraving",
+      "title": "AirPods Pro 3",
+      "price": "$249.00",
+      "image": "/images/db4/airpodspro.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "categories": [
+    { "id": "mac", "name": "Mac", "icon": "/images/Mac.png" },
+    { "id": "iphone", "name": "iPhone", "icon": "/images/iPhone.png" },
+    { "id": "ipad", "name": "iPad", "icon": "/images/iPAD.png" },
+    { "id": "watch", "name": "Apple Watch", "icon": "/images/Apple Watch.png" },
+    { "id": "airpods", "name": "AirPods", "icon": "/images/Airpods.png" },
+    { "id": "airtag", "name": "AirTag", "icon": "/images/Airtag.png" },
+    { "id": "tv", "name": "Apple TV 4K", "icon": "/images/Apple TV 4K.png" },
+    { "id": "homepod", "name": "HomePod", "icon": "/images/HomPod.png" },
+    { "id": "accessories", "name": "Accessories", "icon": "/images/Accessories.png" }
+  ],
+
+
+
+  "products": [
+      {
+      "id": 1,
+      "categoryId": "iphone",
+      "title": "iPhone 17 Pro",
+      "subtitle": "All out Pro.",
+      "priceText": "From $1099 or $45.79/mo. for 24 mo.",
+      "image": "/images/localstorage/iphone17pro.jpeg",
+      "color":"black"
+    },
+    {
+      "id": 2,
+      "categoryId": "mac",
+      "title": "MacBook Pro 14”",
+      "subtitle": "Supercharged by M5.",
+      "priceText": "From $1599 or $133.25/mo. for 12 mo.",
+      "image": "/images/localstorage/macbookpro14.jpeg",
+      "color":"black"
+    },
+    {
+      "id": 3,
+      "categoryId": "watch",
+      "badge": "SPECIAL-EDITION BAND",
+      "title": "Apple Watch Black Unity Braided Solo Loop",
+      "subtitle": "Inspired by the power of connection.",
+      "priceText": "From $99 or $8.25/mo. for 12 mo.",
+      "image": "/images/localstorage/applewatchspecial.jpeg",
+      "color":"black"
+    },{
+      "id": 101,
+      "categoryId": "watch",
+      "title": "Apple Watch Series 11",
+      "description": "The ultimate way to watch your health.",
+      "priceText": "From $399 or $33.25/mo. for 12 mo.",
+      "image": "/images/localstorage/applewatchseries11.jpeg",
+      "color":"white"
+
+    },
+    {
+      "id": 102,
+      "categoryId": "airtag",
+      "title": "AirTag",
+      "description": "The most findable AirTag yet.",
+      "priceText": "From $29",
+      "image": "/images/localstorage/airtag.jpeg",
+      "color":"white"
+    },
+    {
+      "id": 103,
+      "categoryId": "ipad",
+      "title": "iPad Pro",
+      "description": "Mmmmm. Power.",
+      "priceText": "From $999 or $83.25/mo. for 12 mo.",
+      "image": "/images/localstorage/ipadpro.jpeg",
+      "color":"black"
+    },
+    {
+      "id": 104,
+      "categoryId": "iphone",
+      "title": "iPhone 17",
+      "description": "Magichromatic.",
+      "priceText": "From $799 or $33.29/mo. for 24 mo.",
+      "image": "/images/localstorage/iphone17.jpeg",
+      "color":"white"
+    },
+
+    {
+      "id": 106,
+      "categoryId": "iphone",
+      "title": "iPhone Air",
+      "description": "The thinnest iPhone ever.",
+      "priceText": "From $999 or $41.62/mo. for 24 mo.",
+      "image": "/images/localstorage/iphoneair.jpeg",
+      "color":"white"
+    },
+    {
+      "id": 107,
+      "categoryId": "watch",
+      "title": "Apple Watch Ultra 3",
+      "description": "Personal beast.",
+      "priceText": "From $799 or $66.58/mo. for 12 mo.",
+      "image": "/images/localstorage/applewatchultra3.jpeg",
+      "color":"black"
+    },
+    {
+      "id": 108,
+      "categoryId": "watch",
+      "title": "Apple Watch SE 3",
+      "description": "Walk it. Talk it. Track it. Love it.",
+      "priceText": "From $249 or $20.75/mo. for 12 mo.",
+      "image": "/images/localstorage/applewatchse3.jpeg",
+      "color":"white"
+    }
+    
+  ]
+}

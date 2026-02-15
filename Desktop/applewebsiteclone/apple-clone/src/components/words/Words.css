@@ -1,0 +1,26 @@
+.disclaimer {
+  max-width: 980px;           /* keeps text centered + narrow */
+  margin: 40px auto;          /* spacing top & bottom */
+  font-size: 12px;            /* small text like Apple */
+  line-height: 1.5;           /* comfortable reading */
+  color: #6e6e73;             /* Apple grey */
+  font-weight: 400;
+}
+
+.disclaimer a {
+  color: #0066cc;             /* Apple link blue */
+  text-decoration: underline;
+}
+
+.disclaimer a:hover {
+  text-decoration: none;
+}
+
+.Words{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.words p {
+  margin: 0;
+}

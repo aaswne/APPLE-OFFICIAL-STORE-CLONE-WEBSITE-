@@ -1,0 +1,58 @@
+.hero {
+  background-color: transparent;
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.headingdiv {
+  background-color: transparent;
+  width: 80%;
+  height: 30vh;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+}
+
+.store {
+  color: #ff3d51;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+  font-size: 75px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.content {
+  font-family:
+    -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.content span {
+  display: block;
+  text-align: end;
+}
+
+.secondheading {
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  color: #0071e3;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+  text-decoration: none;
+
+  text-align: right;
+}

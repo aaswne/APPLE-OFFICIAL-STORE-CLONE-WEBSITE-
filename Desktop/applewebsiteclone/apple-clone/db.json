@@ -1,0 +1,21 @@
+{
+  "categories": [
+    { "id": "mac", "name": "Mac" },
+    { "id": "iphone", "name": "iPhone" },
+    { "id": "ipad", "name": "iPad" },
+    { "id": "watch", "name": "Apple Watch" },
+    { "id": "airpods", "name": "AirPods" },
+    { "id": "tv", "name": "TV & Home" }
+  ],
+  "products": [
+    { "id": 1, "categoryId": "mac", "title": "Mac", "price": 1099, "image": "/images/Mac.png" },
+    { "id": 2, "categoryId": "iphone", "title": "iPhone", "price": 799, "image": "/images/iPhone.png" },
+    { "id": 3, "categoryId": "ipad", "title": "iPad", "price": 599, "image": "/images/iPAD.png" },
+    { "id": 4, "categoryId": "watch", "title": "Apple Watch", "price": 399, "image": "/images/Apple%20Watch.png" },
+    { "id": 5, "categoryId": "airpods", "title": "AirPods", "price": 249, "image": "/images/Airpods.png" },
+    { "id": 6, "categoryId": "airpods", "title": "AirTag", "price": 29, "image": "/images/Airtag.png" },
+    { "id": 7, "categoryId": "tv", "title": "Apple TV 4K", "price": 129, "image": "/images/Apple%20TV%204K.png" },
+    { "id": 8, "categoryId": "tv", "title": "HomePod", "price": 299, "image": "/images/HomPod.png" },
+    { "id": 9, "categoryId": "mac", "title": "Accessories", "price": 99, "image": "/images/Accessories.png" }
+  ]
+}

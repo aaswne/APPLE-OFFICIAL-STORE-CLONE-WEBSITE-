@@ -1,0 +1,23 @@
+.heading {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  background-color: transparent;
+  width: 100%;
+  height: 10vh;
+  color: white;
+  padding-left: 90px;
+}
+
+.span {
+  color: #6e6e73;
+}
+
+.headingtext {
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+  font-weight: 600; /* Semi-bold */
+  font-size: 26px;
+  color: #ff3b30;
+}
